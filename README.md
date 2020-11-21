@@ -6,3 +6,6 @@ https://pub.flutter-io.cn/
 
 Как сделать Splash экран загрузки для Flutter приожения?<br>
 https://www.developerlibs.com/2018/07/flutter-how-to-fix-white-screen-on-app.html
+
+Лучший WebView для Flutter<br>
+https://pub.flutter-io.cn/packages/flutter_inappwebview
