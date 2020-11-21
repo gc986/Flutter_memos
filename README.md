@@ -9,3 +9,6 @@ https://www.developerlibs.com/2018/07/flutter-how-to-fix-white-screen-on-app.htm
 
 Лучший WebView для Flutter<br>
 https://pub.flutter-io.cn/packages/flutter_inappwebview
+
+Документация по Bloc<br>
+https://bloclibrary.dev
