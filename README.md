@@ -13,6 +13,8 @@ https://pub.flutter-io.cn/packages/flutter_inappwebview
 Документация по Bloc<br>
 https://bloclibrary.dev
 
+PUSH уведомления для Android и iOs версий приложений
+https://medium.com/flutterdevs/push-notification-in-flutter-firebase-127289de5dd4
 
 <h1>Заметки по архитектуре </h1>
 <h3>Зависание приложении при переключении активностей работающих с Flutter движком</h3>
